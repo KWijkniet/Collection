@@ -32,3 +32,7 @@ The Last Stand is my latest and current project. It is a multiplayer, rpg, survi
 
 ## [VWBus Game](https://github.com/KWijkniet/Collection/tree/main/VWBus%20Game)
 Volkswagen bus game was a game to promote a travelling Volkswagen bus that customers could rent and decorate with custom advertisements (perfect for promoting products at conventions). This game was made in Unity using C#. This was an AR game where users could create their own track and drive the Volkswagen around.
+
+## Other videos
+[Me starting learning animations](https://www.youtube.com/watch?v=mAvWfVpkks4&ab_channel=Kelvin)<br/>
+[Destroy internet explorer mobile game](https://www.youtube.com/watch?v=oG1DJZfAXUM&ab_channel=Kelvin)<br/>
