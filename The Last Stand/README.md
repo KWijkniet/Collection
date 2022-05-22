@@ -3,11 +3,15 @@ The Last Stand is my latest and current project. It is a multiplayer, rpg, survi
 
 ## Videos
 **Video01.mp4**<br/>
-![https://youtu.be/feLty5LEmFk](https://youtu.be/feLty5LEmFk)<br/>
+
+https://user-images.githubusercontent.com/31469915/169696324-30bc74df-d81d-4e35-ad52-0bee7e6581b2.mp4
+
 This video shows the first version of quests. Here you can also see the inventory and interactable containers work. 
 
 **Video02.mp4**<br/>
-![https://youtu.be/ENK52vEdmXM](https://youtu.be/ENK52vEdmXM)<br/>
+
+https://user-images.githubusercontent.com/31469915/169696277-89305795-6462-4597-b656-1bc903afa676.mp4
+
 This video shows a playable prototype that included some of the newer features such as: Dialog, Audio and synced movement of objects.
 
 ## Images
