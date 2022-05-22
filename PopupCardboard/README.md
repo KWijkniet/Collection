@@ -4,17 +4,21 @@ The Popupcardboard configurator was an in-browser configurator where you could c
 Since my internship ended and the ordering system was not hooked up yet the web page has since been down.
 
 ## Images
-**01.png**
-This image shows a version in which i was testing the modification of textures and animation controls.
+**01.png**<br/>
+This image shows a version in which i was testing the modification of textures and animation controls.<br/>
+<img src="https://github.com/KWijkniet/Collection/blob/main/PopupCardboard/01.PNG" style="width:500px"><br/>
 
-**02.png**
-This image shows a version in which the basics were working.
+**02.png**<br/>
+This image shows a version in which the basics were working.<br/>
+<img src="https://github.com/KWijkniet/Collection/blob/main/PopupCardboard/02.PNG" style="width:500px"><br/>
 
-**03.png**
-This image shows the final design and version in Unity
+**03.png**<br/>
+This image shows the final design and version in Unity<br/>
+<img src="https://github.com/KWijkniet/Collection/blob/main/PopupCardboard/03.png" style="width:500px"><br/>
 
-**04.png**
-This image shows the final version in the browser
+**04.png**<br/>
+This image shows the final version in the browser<br/>
+<img src="https://github.com/KWijkniet/Collection/blob/main/PopupCardboard/04.png" style="width:500px"><br/>
 
-## Documentation.docx
-This document is the log of my work during my internship and a short explanation of what it is. Please do note that this document is in dutch.
+## Documentation
+This document "Documentation.docx" is the log of my work during my internship and a short explanation of what it is. Please do note that this document is in dutch.
