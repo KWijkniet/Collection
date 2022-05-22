@@ -10,16 +10,19 @@ The discord bot was originally a simple bot to format my messages to look better
 4. An improved version of the previously mentioned message formatting
 
 ## Images
-**1.png**
-Shows one of the games it recently detected and automatically posted as a message.
+**1.png**<br/>
+Shows one of the games it recently detected and automatically posted as a message.<br/>
+<img src="https://github.com/KWijkniet/Collection/blob/main/DiscordBot/1.PNG" style="width:500px"><br/>
 
-**2.png**
-For those familiar with Discord this images shows you that yes it is indeed a bot :D
+**2.png**<br/>
+For those familiar with Discord this images shows you that yes it is indeed a bot :D<br/>
+<img src="https://github.com/KWijkniet/Collection/blob/main/DiscordBot/2.PNG" style="width:500px"><br/>
 
-**3.png**
-A log of all found free games. These have all been found automatically by the bot.
+**3.png**<br/>
+A log of all found free games. These have all been found automatically by the bot.<br/>
+<img src="https://github.com/KWijkniet/Collection/blob/main/DiscordBot/3.PNG" style="width:500px"><br/>
 
-Im not done developing this bot since there are many more sources i would like it to keep an eye on.
+Im not done developing this bot since there are many more sources i would like it to keep an eye on.<br/>
 
-Github: [https://github.com/KWijkniet/FreeGamesBot] (https://github.com/KWijkniet/FreeGamesBot)
-My Discord Server: [https://discord.gg/BBcGASV] (https://discord.gg/BBcGASV)
+Github: [https://github.com/KWijkniet/FreeGamesBot](https://github.com/KWijkniet/FreeGamesBot)<br/>
+My Discord Server: [https://discord.gg/BBcGASV](https://discord.gg/BBcGASV)
