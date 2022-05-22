@@ -2,6 +2,7 @@
 Thanks for checking out this collection of my projects. This collection contains images, videos, documents and code snippets. 
 
 In this readme you can find a summary of each directory. Inside each directory you can find another readme with a more detailed readme.
+Note: Each personal project is just a proof of concept focussed on learning and not finalizing the design.
 
 ## [BenzoBeer](https://github.com/KWijkniet/Collection/tree/main/BenzoBeer)
 A client, who is experienced with working with children with learning disabilities, was also a kids book story writer. She wanted a website created to allow kids with learning disabilities to listen to audio stories through a simple ui.
