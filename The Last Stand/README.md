@@ -51,4 +51,4 @@ While developing this project i ran into a few problems and repetitive tasks. To
 
 ## Documentation
 Project concept: [https://docs.google.com/document/d/1zZ5eAj6e8p0Twtn3tJdCPzLtzNGM9MZO](https://docs.google.com/document/d/1zZ5eAj6e8p0Twtn3tJdCPzLtzNGM9MZO)<br/>
-Trello: [https://trello.com/c/NNDpPh6O/6-the-project](https://trello.com/c/NNDpPh6O/6-the-project)
+Trello: [https://trello.com/b/0gPH7XTA/the-last-stand](https://trello.com/b/0gPH7XTA/the-last-stand)
