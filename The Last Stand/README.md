@@ -28,7 +28,7 @@ This image shows one of the editor extensions i made to improve game management.
 With this tool allows me to add, remove and manage items that can be found in the game. The variables that you can modify change based on your selection. For example: if i change the type to equipable it will show me the option to add stats to the item.
 
 **07.png**
-This image shows a quest with a custom inspector. These values allow me to fully controll each quest without writing any more code.
+![This image shows a quest with a custom inspector. These values allow me to fully controll each quest without writing any more code.](https://github.com/KWijkniet/Collection/blob/main/The%20Last%20Stand/07.PNG "This image shows a quest with a custom inspector. These values allow me to fully controll each quest without writing any more code.")
 
 **08.png**
 While developing this project i ran into a few problems and repetitive tasks. To solve these i wrote my own editor functions.
