@@ -1,5 +1,5 @@
 # Settlers
-Settlers is a project im making with my dad. Inspired by the games "The Settlers" we set out to create our own version.
+Settlers is a project im making with my dad. Inspired by the games "The Settlers" we set out to create our own version. The current state of the project is a proof of concept. There has been little time invested in the graphics.
 
 ## Images
 **01.png**<br/>
