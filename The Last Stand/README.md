@@ -28,7 +28,8 @@ This image shows one of the editor extensions i made to improve game management.
 With this tool allows me to add, remove and manage items that can be found in the game. The variables that you can modify change based on your selection. For example: if i change the type to equipable it will show me the option to add stats to the item.
 
 **07.png**
-![This image shows a quest with a custom inspector. These values allow me to fully controll each quest without writing any more code.](https://github.com/KWijkniet/Collection/blob/main/The%20Last%20Stand/07.PNG "This image shows a quest with a custom inspector. These values allow me to fully controll each quest without writing any more code.")
+<img src="https://github.com/KWijkniet/Collection/blob/main/The%20Last%20Stand/07.PNG" style="width:500px">
+This image shows a quest with a custom inspector. These values allow me to fully controll each quest without writing any more code.
 
 **08.png**
 While developing this project i ran into a few problems and repetitive tasks. To solve these i wrote my own editor functions.
@@ -36,5 +37,5 @@ While developing this project i ran into a few problems and repetitive tasks. To
 2.  There is also the option to convert to interactable (followed by a list of interactable types). In the game a designer can make a scene and turn objects into interactable objects without touching or even knowing how code works. This tool automatically modifies the object in a way that you only need to assign a very limited amount of variables to make the object work.
 
 ## Documentation
-Project concept: [https://docs.google.com/document/d/1zZ5eAj6e8p0Twtn3tJdCPzLtzNGM9MZO](https://docs.google.com/document/d/1zZ5eAj6e8p0Twtn3tJdCPzLtzNGM9MZO)
+Project concept: [https://docs.google.com/document/d/1zZ5eAj6e8p0Twtn3tJdCPzLtzNGM9MZO](https://docs.google.com/document/d/1zZ5eAj6e8p0Twtn3tJdCPzLtzNGM9MZO)<br/>
 Trello: [https://trello.com/c/NNDpPh6O/6-the-project](https://trello.com/c/NNDpPh6O/6-the-project)
