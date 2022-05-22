@@ -1,5 +1,6 @@
 # The Last Stand
 The Last Stand is my latest and current project. It is a multiplayer, rpg, survival game set in an appocalyptic world inspired by the audio story [we're alive](https://www.waylandproductions.com/projects/were-alive/).
+All the designs are work in progress as I am not a designer.
 
 ## Videos
 **Video01.mp4**<br/>
@@ -20,11 +21,10 @@ This image shows the character customization. You can change your players skin, 
 <img src="https://github.com/KWijkniet/Collection/blob/main/The%20Last%20Stand/01.PNG" style="width:500px"><br/>
 
 **02.png**<br/>
-This is a picture taken in the game<br/>
+These pictures are taken in the game<br/>
 <img src="https://github.com/KWijkniet/Collection/blob/main/The%20Last%20Stand/02.PNG" style="width:500px"><br/>
 
 **03.png**<br/>
-This is a picture taken in the game<br/>
 <img src="https://github.com/KWijkniet/Collection/blob/main/The%20Last%20Stand/03.PNG" style="width:500px"><br/>
 
 **04.png**<br/>
