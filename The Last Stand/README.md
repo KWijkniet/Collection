@@ -1,5 +1,5 @@
 # The Last Stand
-The Last Stand is my latest and current project. It is a multiplayer, rpg, survival game set in an appocalyptic world inspired by the audio story [we're alive](https://www.waylandproductions.com/projects/were-alive/).
+The Last Stand is my latest and current project. It is a multiplayer, rpg, survival game set in an apocalyptic world inspired by the audio story [we're alive](https://www.waylandproductions.com/projects/were-alive/).
 All the designs are work in progress as I am not a designer.
 
 ## Videos
@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/31469915/169696277-89305795-6462-4597-
 
 ## Images
 **01.png**<br/>
-This image shows the character customization. You can change your players skin, hair and colors. The customizations are visible to other players<br/>
+This image shows the character customization. You can change your players skin, hair and colours. The customizations are visible to other players<br/>
 <img src="https://github.com/KWijkniet/Collection/blob/main/The%20Last%20Stand/01.PNG" style="width:500px"><br/>
 
 **02.png**<br/>
@@ -32,20 +32,20 @@ This image shows the new ui and inventory system.<br/>
 <img src="https://github.com/KWijkniet/Collection/blob/main/The%20Last%20Stand/04.PNG" style="width:500px"><br/>
 
 **05.png**<br/>
-This image shows one of the editor extensions i made to improve game management. With this tool i can set the values the player spawns with (Only when its the first time spawning).<br/>
+This image shows one of the editor extensions I made to improve game management. With this tool I can set the values the player spawns with (Only when its the first time spawning).<br/>
 <img src="https://github.com/KWijkniet/Collection/blob/main/The%20Last%20Stand/05.PNG" style="width:500px"><br/>
 
 **06.png**<br/>
-With this tool allows me to add, remove and manage items that can be found in the game. The variables that you can modify change based on your selection. For example: if i change the type to equipable it will show me the option to add stats to the item.<br/>
+With this tool allows me to add, remove and manage items that can be found in the game. The variables that you can modify change based on your selection. For example: if I change the type to equip able it will show me the option to add stats to the item.<br/>
 <img src="https://github.com/KWijkniet/Collection/blob/main/The%20Last%20Stand/06.PNG" style="width:500px"><br/>
 
 **07.png**<br/>
-This image shows a quest with a custom inspector. These values allow me to fully controll each quest without writing any more code.
+This image shows a quest with a custom inspector. These values allow me to fully control each quest without writing any more code.
 <img src="https://github.com/KWijkniet/Collection/blob/main/The%20Last%20Stand/07.PNG" style="width:500px"><br/>
 
 **08.png**<br/>
-While developing this project i ran into a few problems and repetitive tasks. To solve these i wrote my own editor functions.
-1.  Underneath the Tools/Selected i have the option to merge meshes. Everything is made using separate models in a designing scene. when this is done this option allows you to merge it into 1 mesh (or automatically multiple if the mesh is too big) and save it as a new file.
+While developing this project I ran into a few problems and repetitive tasks. To solve these I wrote my own editor functions.
+1.  Underneath the Tools/Selected I have the option to merge meshes. Everything is made using separate models in a designing scene. when this is done this option allows you to merge it into 1 mesh (or automatically multiple if the mesh is too big) and save it as a new file.
 2.  There is also the option to convert to interactable (followed by a list of interactable types). In the game a designer can make a scene and turn objects into interactable objects without touching or even knowing how code works. This tool automatically modifies the object in a way that you only need to assign a very limited amount of variables to make the object work.
 <img src="https://github.com/KWijkniet/Collection/blob/main/The%20Last%20Stand/08.PNG" style="width:500px"><br/>
 

@@ -3,7 +3,6 @@ RexAcademy is an e-learning platform aimed at companies to manage courses, teams
 
 ## Images
 **01.png**<br/>
-This image shows a test where we tested the performance of having many settlers walk around and do their own job. In the picture you have transporters, builders, wood cutters and foresters all worked at the same time. (running the game at 2x speed)<br/>
 This image shows one of the courses<br/>
 <img src="https://github.com/KWijkniet/Collection/blob/main/RexAcademy/01.png" style="width:500px"><br/>
 

@@ -13,11 +13,11 @@ This image shows a version in which the basics were working.<br/>
 <img src="https://github.com/KWijkniet/Collection/blob/main/PopupCardboard/02.PNG" style="width:500px"><br/>
 
 **03.png**<br/>
-This image shows the final design and version in Unity<br/>
+This image shows the final design and version in Unity.<br/>
 <img src="https://github.com/KWijkniet/Collection/blob/main/PopupCardboard/03.png" style="width:500px"><br/>
 
 **04.png**<br/>
-This image shows the final version in the browser<br/>
+This image shows the final version in the browser.<br/>
 <img src="https://github.com/KWijkniet/Collection/blob/main/PopupCardboard/04.png" style="width:500px"><br/>
 
 ## Documentation
