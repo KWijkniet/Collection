@@ -18,9 +18,13 @@ https://user-images.githubusercontent.com/31469915/169696277-89305795-6462-4597-
 **Video03.mp4**<br/>
 This video shows the first version of my visual node based editor.<br/>
 
+https://user-images.githubusercontent.com/31469915/172052413-9bb1c548-cf57-4b5b-88fb-e69198cae87b.mp4
+
 
 **Video04.mp4**<br/>
 This video shows the first version of my dialogue system. The dialogue is created and managed in a custom visual node based editor (see video 03 and image 09).<br/>
+
+https://user-images.githubusercontent.com/31469915/172052420-3ccd0300-c1b5-45a6-9df1-4a99f004043f.mp4
 
 
 ## Images
@@ -58,8 +62,8 @@ While developing this project I ran into a few problems and repetitive tasks. To
 <img src="https://github.com/KWijkniet/Collection/blob/main/The%20Last%20Stand/08.PNG" style="width:500px"><br/>
 
 **09.png**<br/>
-This image shows the first version of the visual node based editor i created to manage dialogues. This editor is created in such a way that i can reuse it for other systems as well. This image belongs with Video03
-<img src="https://github.com/KWijkniet/Collection/blob/main/The%20Last%20Stand/09.PNG" style="width:500px"><br/>
+This image shows the first version of the visual node based editor i created to manage dialogues. This editor is created in such a way that i can reuse it for other systems as well. This image belongs with Video03.<br/>
+<img src="https://github.com/KWijkniet/Collection/blob/main/The%20Last%20Stand/09.png" style="width:500px"><br/>
 
 ## Documentation
 Project concept: [https://docs.google.com/document/d/1zZ5eAj6e8p0Twtn3tJdCPzLtzNGM9MZO](https://docs.google.com/document/d/1zZ5eAj6e8p0Twtn3tJdCPzLtzNGM9MZO)<br/>
