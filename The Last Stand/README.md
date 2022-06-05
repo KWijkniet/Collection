@@ -15,6 +15,14 @@ This video shows a playable prototype that included some of the newer features s
 https://user-images.githubusercontent.com/31469915/169696277-89305795-6462-4597-b656-1bc903afa676.mp4
 
 
+**Video03.mp4**<br/>
+This video shows the first version of my visual node based editor.<br/>
+
+
+**Video04.mp4**<br/>
+This video shows the first version of my dialogue system. The dialogue is created and managed in a custom visual node based editor (see video 03 and image 09).<br/>
+
+
 ## Images
 **01.png**<br/>
 This image shows the character customization. You can change your players skin, hair and colours. The customizations are visible to other players<br/>
@@ -48,6 +56,10 @@ While developing this project I ran into a few problems and repetitive tasks. To
 1.  Underneath the Tools/Selected I have the option to merge meshes. Everything is made using separate models in a designing scene. when this is done this option allows you to merge it into 1 mesh (or automatically multiple if the mesh is too big) and save it as a new file.
 2.  There is also the option to convert to interactable (followed by a list of interactable types). In the game a designer can make a scene and turn objects into interactable objects without touching or even knowing how code works. This tool automatically modifies the object in a way that you only need to assign a very limited amount of variables to make the object work.
 <img src="https://github.com/KWijkniet/Collection/blob/main/The%20Last%20Stand/08.PNG" style="width:500px"><br/>
+
+**09.png**<br/>
+This image shows the first version of the visual node based editor i created to manage dialogues. This editor is created in such a way that i can reuse it for other systems as well. This image belongs with Video03
+<img src="https://github.com/KWijkniet/Collection/blob/main/The%20Last%20Stand/09.PNG" style="width:500px"><br/>
 
 ## Documentation
 Project concept: [https://docs.google.com/document/d/1zZ5eAj6e8p0Twtn3tJdCPzLtzNGM9MZO](https://docs.google.com/document/d/1zZ5eAj6e8p0Twtn3tJdCPzLtzNGM9MZO)<br/>
