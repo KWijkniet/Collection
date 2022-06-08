@@ -2,13 +2,14 @@
 This document is the explanation behind each code snippet.
 
 1.	Snippet-AxiosExtended.js
-2.  Snippet-ConvertToInteractable.txt
+2.  Snippet-ConvertToInteractable.cs
 3.	Snippet-GetCourseData.php
-4.	Snippet-ItemData.txt
-5.	Snippet-LootTables.txt
-6.	Snippet-ProfileImageUploader.js
-7.	Snippet-StateMachine.txt
-8.	Snippet-TransporterManager.txt
+4.	Snippet-ItemData.cs
+5.	Snippet-LootTables.cs
+6.  Snippet-NodeEditor.cs
+7.	Snippet-ProfileImageUploader.js
+8.	Snippet-StateMachine.txt
+9.	Snippet-TransporterManager.cs
 
 ## Snippet-AxiosExtended.js <br/>
 In RexAcademy we use a lot of http requests. These requests are done using the tool “Axios”. In this snippet we use the axios request but extend its base functionality with our own. Added to the base functionality is a simple loader (that shows the user that the page is loading). This axiosRequest has been made available in all files no matter what parent-child level it is on. <br/>
@@ -29,6 +30,10 @@ In the “The Last Stand” project I'm working on I need to handle a bunch of i
 ## Snippet-LootTables.cs <br/>
 In the “The Last Stand” project I’m working on I use loot tables to generate randomized loot. These loot tables are Scriptable Objects that hold all information to generate loot using a weight value. The list of items that it returns contains only the reference uuid and the amount. <br/>
 [Link](https://github.com/KWijkniet/Collection/blob/main/Code%20Snippets/Snippet-LootTables.cs)
+
+## Snippet-NodeEditor.cs <br/>
+In the “The Last Stand” project I’m working on I needed a way to create dialogue. Doing this using just arrays would be confusing and hard to work with. A solution for this is a visual tool such as a node editor (A node editor is a tool where you can drag "nodes" around and connect them using lines. Similar to how flowcharts are made). There are both free and paid tools but i decided it would be a good learning experience to create one myself. This node editor script is a base script to create a node editor. It is made in such a way that anyone can extend this class to create your own logic. With this class i can create a dialogue system, skill tree system and more. <br/>
+[Link](https://github.com/KWijkniet/Collection/blob/main/Code%20Snippets/Snippet-NodeEditor.cs)
 
 ## Snippet-ProfileImageUploader.js <br/>
 In RexAcademy we use components to build a page. This is good for organizing the code and keeping it clean and easy to maintain. One of these components is the ProfileImageUploader component. This component allows users to see, remove and upload images. The uploaded images are sent to the backend where they are validated and handled. <br/>
