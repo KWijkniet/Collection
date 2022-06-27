@@ -1,3 +1,4 @@
+<!-- Visible part of this component -->
 <template>
     <div class="container-fluid">
         <div class="card">
@@ -40,6 +41,7 @@
     </div>
 </template>
 
+<!-- Logic part of this component -->
 <script>
     export default {
         name: 'ProfileImage',
@@ -65,6 +67,7 @@
             }
         },
         methods: {
+            //read info from the file selector
             viaSelector(e){
                 const file = e.target.files[0];
 
@@ -73,6 +76,7 @@
                 this.previewUrl = URL.createObjectURL(file);
                 this.uploadResponse = "success";
             },
+            //read info from the dropped file
             viaDrop(e){
                 let droppedFiles = e.dataTransfer.files;
 
@@ -88,6 +92,7 @@
                     this.uploadResponse = "success";
                 }
             },
+            //clear the variables
             cancel(){
                 this.uploadResponse = '';
                 this.fileName = '';
@@ -95,6 +100,7 @@
                 this.file = null;
                 this.saved = false;
             },
+            //Submit the new image to the backend
             save(){
                 let formData = new FormData();
                 formData.append('file', this.file);
