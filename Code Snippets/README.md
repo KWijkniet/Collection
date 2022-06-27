@@ -10,6 +10,7 @@ This document is the explanation behind each code snippet.
 7.	Snippet-ProfileImageUploader.js
 8.	Snippet-StateMachine.txt
 9.	Snippet-TransporterManager.cs
+10. Snippet-Bulma.html
 
 ## Snippet-AxiosExtended.js <br/>
 In RexAcademy we use a lot of http requests. These requests are done using the tool “Axios”. In this snippet we use the axios request but extend its base functionality with our own. Added to the base functionality is a simple loader (that shows the user that the page is loading). This axiosRequest has been made available in all files no matter what parent-child level it is on. <br/>
@@ -46,3 +47,7 @@ In the “The Last Stand” project I have a custom editor window that allows an
 ## Snippet-TransporterManager.cs <br/>
 In the “Settlers” project there is a transporter manager that manages all item transport requests. This manager holds a queue of orders and it will handle each order by finding the closest transporter (transporter is a settler with the job of transporting items). The closest transporter is found by checking the distance between the transporter and the source from which the item needs to be transported. <br/>
 [Link](https://github.com/KWijkniet/Collection/blob/main/Code%20Snippets/Snippet-TransporterManager.cs)
+
+## Snippet-Bulma.html <br/>
+For my own website i decided to use the css framework bulma. This snippet shows part of the code used on my own website. <br/>
+[Link](https://github.com/KWijkniet/Collection/blob/main/Code%20Snippets/Snippet-Bulma.html)
