@@ -11,6 +11,12 @@ This document is the explanation behind each code snippet.
 8.	Snippet-StateMachine.txt
 9.	Snippet-TransporterManager.cs
 10. Snippet-Bulma.html
+11. Snippet-DetectTile.js
+12. Snippet-ImageUploader.php
+13. Snippet-SimpleEventSystem.js
+14. Snippet-VueComputedFilter.js
+15. Snippet-Vector2.js
+16. Snippet-Collision.js
 
 ## Snippet-AxiosExtended.js <br/>
 In RexAcademy we use a lot of http requests. These requests are done using the tool “Axios”. In this snippet we use the axios request but extend its base functionality with our own. Added to the base functionality is a simple loader (that shows the user that the page is loading). This axiosRequest has been made available in all files no matter what parent-child level it is on. <br/>
@@ -51,3 +57,27 @@ In the “Settlers” project there is a transporter manager that manages all it
 ## Snippet-Bulma.html <br/>
 For my own website i decided to use the css framework bulma. This snippet shows part of the code used on my own website. <br/>
 [Link](https://github.com/KWijkniet/Collection/blob/main/Code%20Snippets/Snippet-Bulma.html)
+
+## Snippet-DetectTile.js <br/>
+This function (from the xroof project) detects if the users clicks on a generated tile using the collisions script.<br/>
+[Link](https://github.com/KWijkniet/Collection/blob/main/Code%20Snippets/Snippet-DetectTile.js)
+
+## Snippet-ImageUploader.php <br/>
+This function is used for RexAcademy to compress and upload images to the google cloud storage.<br/>
+[Link](https://github.com/KWijkniet/Collection/blob/main/Code%20Snippets/Snippet-ImageUploader.php)
+
+## Snippet-SimpleEventSystem.js <br/>
+This is a simple event system that can easily be used by creating an instance of it and then using the subscribe and unsubscribe methods.<br/>
+[Link](https://github.com/KWijkniet/Collection/blob/main/Code%20Snippets/Snippet-SimpleEventSystem.js)
+
+## Snippet-VueComputedFilter.js <br/>
+A simple filter to search for results in a vue based project.<br/>
+[Link](https://github.com/KWijkniet/Collection/blob/main/Code%20Snippets/Snippet-VueComputedFilter.js)
+
+## Snippet-Vector2.js <br/>
+A class filled with Vector2 calculations.<br/>
+[Link](https://github.com/KWijkniet/Collection/blob/main/Code%20Snippets/Snippet-Vector2.js)
+
+## Snippet-Collision.js <br/>
+A simple script to detect collision.<br/>
+[Link](https://github.com/KWijkniet/Collection/blob/main/Code%20Snippets/Snippet-Collision.js)
