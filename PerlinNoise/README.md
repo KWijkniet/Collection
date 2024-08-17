@@ -15,4 +15,4 @@ Applying rules to control colors which creates landscapes.<br/>
 
 **3.png**<br/>
 Applying rules to create an island.<br/>
-<img src="https://github.com/KWijkniet/Collection/blob/main/PerlinNoise/2.PNG" style="width:500px"><br/>
+<img src="https://github.com/KWijkniet/Collection/blob/main/PerlinNoise/3.PNG" style="width:500px"><br/>
