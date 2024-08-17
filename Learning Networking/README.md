@@ -20,6 +20,3 @@ https://user-images.githubusercontent.com/31469915/169696897-57bb8c74-e106-4299-
 This clip shows that you can destroy objects and get items in return.<br/>
 
 https://user-images.githubusercontent.com/31469915/169696904-9c49dd0b-992a-4282-a949-62fe6b3eeca1.mp4
-
-Github: [https://github.com/KWijkniet/Crash-Survivor](https://github.com/KWijkniet/Crash-Survivor)<br/>
-Trello: [https://trello.com/b/hN73kvRs/crash-survivor-prototype](https://trello.com/b/hN73kvRs/crash-survivor-prototype)
