@@ -23,6 +23,3 @@ A log of all found free games. These have all been found automatically by the bo
 <img src="https://github.com/KWijkniet/Collection/blob/main/DiscordBot/3.PNG" style="width:500px"><br/>
 
 Im not done developing this bot since there are many more sources i would like it to keep an eye on.<br/>
-
-Github: [https://github.com/KWijkniet/FreeGamesBot](https://github.com/KWijkniet/FreeGamesBot)<br/>
-My Discord Server: [https://discord.gg/BBcGASV](https://discord.gg/BBcGASV)
