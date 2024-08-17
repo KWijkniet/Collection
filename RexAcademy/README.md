@@ -13,6 +13,3 @@ This image shows one of the course chapters<br/>
 **03.png**<br/>
 This image shows the results page viewed as a teacher<br/>
 <img src="https://github.com/KWijkniet/Collection/blob/main/RexAcademy/03.png" style="width:500px"><br/>
-
-Website (not official): [https://www.rexacademy.kelvinwijkniet.tech](https://www.rexacademy.kelvinwijkniet.tech)<br/>
-Website (official): [https://www.rexacademy.nl](https://www.rexacademy.nl)
