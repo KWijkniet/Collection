@@ -19,6 +19,3 @@ This image shows the final design and version in Unity.<br/>
 **04.png**<br/>
 This image shows the final version in the browser.<br/>
 <img src="https://github.com/KWijkniet/Collection/blob/main/PopupCardboard/04.png" style="width:500px"><br/>
-
-## Documentation
-This document "Documentation.docx" is the log of my work during my internship and a short explanation of what it is. Please do note that this document is in dutch.
